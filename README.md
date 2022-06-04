@@ -233,7 +233,7 @@ drwxr-xr-x 6 root root  100 Apr 28 19:54 ..
 -rw------- 1 root root 1384 Jun  4 16:20 vg00_00002-2083211155.vg
 -rw------- 1 root root 1367 Jun  4 16:26 vg00_00003-351113624.vg
 ```
-##### Getting details about the Archive files in a volume group
+#### Getting details about the Archive files in a volume group
 
 ```
 [root@ip-172-31-86-253 archive]# vgcfgrestore --list vg00
